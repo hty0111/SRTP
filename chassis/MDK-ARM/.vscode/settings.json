@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "control_task.h": "c",
+        "pid.h": "c",
+        "remote_ctrl.h": "c",
+        "mode_task.h": "c",
+        "cmath": "c",
+        "iwdg.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "imu_task.h": "c",
+        "bmi_receive.h": "c",
+        "chassis_task.h": "c"
+    }
+}

@@ -1,0 +1,4 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'standard'
+Note: source file '..\Task\chassis_task.c' - object file renamed from 'standard\chassis_task.o' to 'standard\chassis_task_1.o'."standard\standard.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:01
