@@ -1,0 +1,8 @@
+prefix=/home/hty/Desktop/SRTP/catkin_ws/devel
+
+Name: gluon_control
+Description: Description of gluon_control
+Version: 0.0.0
+Cflags: -I/home/hty/Desktop/SRTP/catkin_ws/src/ros_gluon/gluon_control/include
+Libs: -L${prefix}/lib 
+Requires: ros_control_boilerplate roscpp rosparam_shortcuts std_msgs geometry_msgs sensor_msgs

@@ -1,0 +1,3 @@
+/home/hty/Desktop/SRTP/TXBOT_Gripper/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux/CMakeFiles/SCServo.dir
+/home/hty/Desktop/SRTP/TXBOT_Gripper/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux/CMakeFiles/edit_cache.dir
+/home/hty/Desktop/SRTP/TXBOT_Gripper/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+用VS打开SCServo_Linux文件夹
+删除example文件夹，编译INST.h、SCS.cpp、SCS.h、SCSCL.cpp、SCSCL.h、SCSerial.cpp、SCSerial.h、SCServo.h、SMSBL.cpp、SMSBL.h、SMSCL.cpp、SMSCL.h生成 libSCServo.a
+将libSCServo.a复制到 usr/lib（注意修改权限 chmod 777 usr/lib）
+将INST.h、SCS.cpp、SCS.h、SCSCL.cpp、SCSCL.h、SCSerial.cpp、SCSerial.h、SCServo.h、SMSBL.cpp、SMSBL.h、SMSCL.cpp、SMSCL.h悉数复制到example下目标测试文件夹里
+cd examples/SMSBL/WritePos进入测试例子
+使用cmake .命令生成Makefile
+使用make命令生成运行程序WritePos
+运行:sudo ./WritePos /dev/ttyAMA0
+注:/dev/ttyAMA0根据设备实际串口指定
+注:以上例子以SMSBL舵机的WritePos为例，需要根据舵机型号选择合适的测试例子

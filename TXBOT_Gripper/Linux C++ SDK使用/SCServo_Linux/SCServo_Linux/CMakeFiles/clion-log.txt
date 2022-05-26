@@ -1,0 +1,4 @@
+Cannot generate into /home/hty/Desktop/SRTP/TXBOT_Gripper/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCServoDemo", "SCServoDemo.vcproj", "{B4C30144-FFC2-4AA7-910F-E47D4B2F3CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C30144-FFC2-4AA7-910F-E47D4B2F3CFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4C30144-FFC2-4AA7-910F-E47D4B2F3CFC}.Debug|Win32.Build.0 = Debug|Win32
+		{B4C30144-FFC2-4AA7-910F-E47D4B2F3CFC}.Release|Win32.ActiveCfg = Release|Win32
+		{B4C30144-FFC2-4AA7-910F-E47D4B2F3CFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+prefix=/home/hty/Desktop/SRTP/catkin_ws/devel
+
+Name: gluon_moveit_config
+Description: Description of gluon_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

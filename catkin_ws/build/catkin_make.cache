@@ -1,0 +1,2 @@
+ros_gluon/cm_moveit:ros_gluon/gluon:ros_gluon/gluon_control:ros_gluon/gluon_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/hty/Desktop/SRTP/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hty/Desktop/SRTP/catkin_ws/install -G Unix Makefiles

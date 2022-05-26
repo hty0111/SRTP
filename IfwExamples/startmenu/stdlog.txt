@@ -1,0 +1,86 @@
+please run logtool setting script to enable log!
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 10.255.255.255
+release ActuatorController
+please run logtool setting script to enable log!
+update finished 1
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+release ActuatorController
+please run logtool setting script to enable log!
+update finished 1
+release ActuatorController
+please run logtool setting script to enable log!
+update finished 1
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.102.255
+please run logtool setting script to enable log!
+update finished 1
+broadcastVector size 1
+----broadcast 127.255.255.255
+broadcastVector size 1
+----broadcast 127.255.255.255
+release ActuatorController
+please run logtool setting script to enable log!
+update finished 1
+broadcastVector size 1
+----broadcast 127.255.255.255
+broadcastVector size 1
+----broadcast 127.255.255.255
+release ActuatorControllerrelease ActuatorController
+
+update finished 1
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.1.255
+read ECU brake protection timeout
+release ActuatorController
+update finished 1
+broadcastVector size 2
+----broadcast 127.255.255.255
+----broadcast 192.168.1.255
+read ECU brake protection timeout
+release ActuatorController
+update finished 1
+broadcastVector size 3
+----broadcast 127.255.255.255
+----broadcast 192.168.1.255
+----broadcast 192.168.102.255
+read ECU brake protection timeout
+release ActuatorController
+update finished 1
+no data to update!
+broadcastVector size 3
+----broadcast 127.255.255.255
+----broadcast 192.168.1.255
+----broadcast 192.168.102.255
+release ActuatorController
+update finished 0
+update finished 1
+no data to update!
+release ActuatorController
+update finished 0

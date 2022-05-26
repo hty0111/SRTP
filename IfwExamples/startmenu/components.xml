@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>MinTaActuatorStudio</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>org.qtproject.ifw.example</Name>
+        <Title>MintaActuatorStudio</Title>
+        <Description>MinTaActuatorStudio, accessible through a start menu entry.</Description>
+        <TreeName></TreeName>
+        <Version>3.7.3-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2022-02-25</InstallDate>
+        <Size>75619286</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>

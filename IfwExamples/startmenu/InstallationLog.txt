@@ -1,0 +1,122 @@
+************************************* Invoked: Fri Feb 25 18:12:25 2022
+[0] Arguments: /home/hty/Applications/Minta-Actuator-Studio-linux-master/MinTaActuatorStudio_installer_V3.7.3.run
+[0] Operations sanity check succeeded.
+[0] Language: en-US
+[2104] Preparing meta information download...
+[19553] Installation space required: "79.33 MB" Temporary space required: "0.00 bytes" Local repository size: "0.00 bytes"
+[19555] Tmp and install directories are on the same volume. Volume mount point: "/" Free space available: "28.38 GB"
+[22518] perform  operation: Mkdir
+[22518] 	- arguments: /home/hty/Applications/IfwExamples
+[22518] Done
+[22518] backup  operation: Mkdir
+[22518] 	- arguments: /home/hty/Applications/IfwExamples/startmenu
+[22518] Done
+[22519] perform  operation: Mkdir
+[22519] 	- arguments: /home/hty/Applications/IfwExamples/startmenu
+[22519] Done
+[22519] Preparing the installation...
+[22519] Install size: 1 components
+[22522] Installing component MintaActuatorStudio
+[22523] backup org.qtproject.ifw.example operation: Extract
+[22523] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1content.7z, /home/hty/Applications/IfwExamples/startmenu
+[22523] Done
+[22523] perform org.qtproject.ifw.example operation: Extract
+[22523] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1content.7z, /home/hty/Applications/IfwExamples/startmenu
+[22776] Done
+[22777] backup org.qtproject.ifw.example operation: Extract
+[22777] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1lib.7z, /home/hty/Applications/IfwExamples/startmenu
+[22777] Done
+[22777] perform org.qtproject.ifw.example operation: Extract
+[22777] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1lib.7z, /home/hty/Applications/IfwExamples/startmenu
+[24059] Done
+[24059] backup org.qtproject.ifw.example operation: Extract
+[24059] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1plugins.7z, /home/hty/Applications/IfwExamples/startmenu
+[24059] Done
+[24059] perform org.qtproject.ifw.example operation: Extract
+[24059] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1plugins.7z, /home/hty/Applications/IfwExamples/startmenu
+[24117] Done
+[24117] backup org.qtproject.ifw.example operation: Extract
+[24117] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1translations.7z, /home/hty/Applications/IfwExamples/startmenu
+[24117] Done
+[24117] perform org.qtproject.ifw.example operation: Extract
+[24117] 	- arguments: installer://org.qtproject.ifw.example/3.7.3-1translations.7z, /home/hty/Applications/IfwExamples/startmenu
+[24136] Done
+[24139] Writing maintenance tool: "/home/hty/Applications/IfwExamples/startmenu/maintenancetool.new"
+[24139] Writing maintenance tool.
+[24339] Wrote permissions for maintenance tool.
+[24347] Maintenance tool restart: false.
+[24347] Installation finished!
+************************************* Invoked: Fri Feb 25 18:13:03 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[0] Operations sanity check succeeded.
+[1] Command line interface initialized but no command argument found.
+[1] Preparing meta information download...
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 18:14:37 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[1] Operations sanity check succeeded.
+[1] Command line interface initialized but no command argument found.
+[1] Preparing meta information download...
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 18:14:39 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --updater
+[0] Operations sanity check succeeded.
+[0] Language: en-US
+************************************* Invoked: Fri Feb 25 18:15:06 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[1] Operations sanity check succeeded.
+[1] Command line interface initialized but no command argument found.
+[1] Preparing meta information download...
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 20:55:01 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[1] Operations sanity check succeeded.
+[1] Command line interface initialized but no command argument found.
+[1] Preparing meta information download...
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 20:58:02 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[1] Operations sanity check succeeded.
+[1] Command line interface initialized but no command argument found.
+[1] Preparing meta information download...
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 21:05:10 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[15] Operations sanity check succeeded.
+[15] Command line interface initialized but no command argument found.
+[15] Preparing meta information download...
+[16] Warning: Cannot retrieve remote tree No package sources set for this application..
+[16] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 21:07:36 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[1] Operations sanity check succeeded.
+[1] Command line interface initialized but no command argument found.
+[1] Preparing meta information download...
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+[1] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Fri Feb 25 21:53:19 2022
+[0] Arguments: /home/hty/Applications/IfwExamples/startmenu/maintenancetool, --checkupdates
+[4] Operations sanity check succeeded.
+[4] Command line interface initialized but no command argument found.
+[4] Preparing meta information download...
+[4] Warning: Cannot retrieve remote tree No package sources set for this application..
+[4] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Wed May 18 16:17:39 2022
+[0] Arguments: /home/hty/Desktop/SRTP/IfwExamples/startmenu/maintenancetool, --checkupdates
+[18] Operations sanity check succeeded.
+[18] Command line interface initialized but no command argument found.
+[18] Preparing meta information download...
+[18] Warning: Cannot retrieve remote tree No package sources set for this application..
+[18] Warning: Cannot retrieve remote tree No package sources set for this application..
+************************************* Invoked: Wed May 18 17:21:36 2022
+[0] Arguments: /home/hty/Desktop/SRTP/IfwExamples/startmenu/maintenancetool, --checkupdates
+[4] Operations sanity check succeeded.
+[4] Command line interface initialized but no command argument found.
+[4] Preparing meta information download...
+[4] Warning: Cannot retrieve remote tree No package sources set for this application..
+[4] Warning: Cannot retrieve remote tree No package sources set for this application..

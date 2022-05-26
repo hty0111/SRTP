@@ -1,0 +1,3 @@
+D:/XBOT/XBOT/TXBOT/资料/TXBOT_Gripper使用说明2.0/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux/out/build/x64-Debug (默认值)/CMakeFiles/SCServo.dir
+D:/XBOT/XBOT/TXBOT/资料/TXBOT_Gripper使用说明2.0/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux/out/build/x64-Debug (默认值)/CMakeFiles/edit_cache.dir
+D:/XBOT/XBOT/TXBOT/资料/TXBOT_Gripper使用说明2.0/Linux C++ SDK使用/SCServo_Linux/SCServo_Linux/out/build/x64-Debug (默认值)/CMakeFiles/rebuild_cache.dir
