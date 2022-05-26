@@ -60,18 +60,14 @@ static void rc_update(void)
 	if (rc.sw1 == RC_MI)
 	{
 		chassis_mode = Chassis_Normal_Mode;
+		if (rc.sw2 == RC_UP || rc.sw2 == RC_DN)
+			chassis_mode = Chassis_Lock_Mode;
 	}
 		
-	// auto mode
-	if (rc.sw1 == RC_UP)
+	// lock mode
+	if (rc.sw1 == RC_UP || rc.sw1 == RC_DN)
 	{
-		chassis_mode = Chassis_Auto_Mode;
-	}
-
-	// debug mode
-	if (rc.sw1 == RC_DN)
-	{
-		chassis_mode = Chassis_PID_Mode;
+		chassis_mode = Chassis_Lock_Mode;
 	}
 }
 

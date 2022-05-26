@@ -70,6 +70,10 @@ void Chassis_Task(void)
 		set_VY = -raw_VY * RC_VY_RATIO;
 		set_VW = PID_Calc(&chassis_angle_pid_t, set_yaw_angle, imu_data.yaw_angle) * RC_VW_RATIO;
 	}
+	else if (chassis_mode == Chassis_Lock_Mode)
+	{
+		set_VX = set_VY = set_VW = 0;
+	}
 	
 	// 平动和转动
 	chassis_speed[0] = -set_VY + set_VX - set_VW;
@@ -80,7 +84,7 @@ void Chassis_Task(void)
 	for (uint8_t i = 0; i < 4; i++)
 		chassis_current[i] = PID_Calc(&chassis_speed_pid_t[i], ChassisEncoder[i].rotate_speed, chassis_speed[i]);	
 	
-	CAN_Send_Msg(&hcan1, chassis_current, TxMessage, M3508_1_to_4_ID, CAN_Send_Len);	
+	CAN_Send_Msg(&hcan1, chassis_current, TxMessage, M3508_1_to_4_ID, CAN_Send_Len);
 }
 /* External variables --------------------------------------------------------*/
 

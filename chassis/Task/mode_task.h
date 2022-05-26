@@ -23,6 +23,7 @@ typedef enum {
     Chassis_Normal_Mode,	// 常规控制
 	Chassis_Auto_Mode,		// 自动行驶
 	Chassis_PID_Mode,		// 用于整定PID参数
+	Chassis_Lock_Mode,		// 急停
 } Chassis_Mode_t;
 
 // signal source
